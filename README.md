@@ -1,4 +1,9 @@
-# FraudDetection-Financial-Model
+# Fraud Detection Model
+
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-Models-orange?style=for-the-badge)
+![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)
+
 Machine learning model to predict fraudulent transactions for a financial company using transaction data.
 
 Dataset used in this project: [Google drive Link](https://drive.usercontent.google.com/download?id=1VNpyNkGxHdskfdTNRSjjyNa5qC9u0JyV&export=download&authuser=0)
@@ -37,7 +42,13 @@ fraud-detection-model/
 - **Model Evaluation**: Analyze performance metrics to validate the model.
 
 ## Technology Stack
-- Python  Jupyter  Notebook  Pandas  NumPy  Seaborn  Matplotlib  Scikit-learn
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ## Results
 - Achieved more than 95%+ accuracy for all the models with different the fraud:non_fraud ratios.
