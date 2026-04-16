@@ -14,10 +14,21 @@ This notebook covers:
 - Model evaluation using Accuracy, Confusion Matrix, Classification Report, and ROC Curve
 
 ## Repository Structure
-| File | Description |
-|:----|:------------|
-| `fraud_detection_model.ipynb` | Jupyter Notebook containing all code for preprocessing, modeling, and evaluation. |
- 
+
+```text
+fraud-detection-model/
+├── README.md                             <- The top-level README for developers
+├── data/                                 <- Directory for datasets
+│   └── raw/                              <- The original, immutable data dump
+├── notebooks/                            <- Jupyter notebooks 
+│   ├── 01_eda_and_data_overview.ipynb    <- Initial data exploration
+│   └── 02_model_training_and_eval.ipynb  <- Model training and evaluation
+├── models/                               <- Trained and serialized models
+├── reports/                              <- Generated analysis and docs
+│   ├── Q&A_Internship_Guideline.pdf      
+│   └── figures/                          <- Generated graphics
+└── src/                                  <- Source code for this project
+```
   ## Project Workflow
 - **Data Loading**: Import and inspect the dataset.
 - **Exploratory Data Analysis (EDA)**: Identify patterns, outliers, and missing values.
